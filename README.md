@@ -1,2 +1,5 @@
-# welcome
-Entry point for Hack for the Sea. Will grow over time.
+# Hack for the Sea - 2019
+
+Stay tuned for more information. Our 2019 event is still TBD. For notifications as to when things change, please watch or star this repository, or sign up for our mailing list at https://tinyletter.com/hackforthesea.
+
+This README will certainly grow over time.
