@@ -1,5 +1,12 @@
 # Hack for the Sea - 2019
 
-Stay tuned for more information. Our 2019 event is still TBD. For notifications as to when things change, please watch or star this repository, or sign up for our mailing list at https://tinyletter.com/hackforthesea.
+## Where
 
-This README will certainly grow over time. Please send an email to  mark@hackforthesea.tech to get in touch.
+Hack for the Sea 2019 will be hosted at [Wheelhouse Cowork](https://wheelhousecowork.com) in Gloucester.
+
+![Wheelhouse Logo](https://www.wheelhousecowork.com/en/business/getlogo?w=600&h=200&mode=pad)
+
+
+Stay tuned for more information. For notifications as to when things change, please watch or star this repository, or sign up for our mailing list at https://tinyletter.com/hackforthesea.
+
+Please send an email to [mark@hackforthesea.tech](mailto:mark@hackforthesea.tech) to get in touch.
