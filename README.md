@@ -1,4 +1,4 @@
-# Hack for the Sea - 2019
+# Hack for the Sea 2020
 
 ## Where
 
