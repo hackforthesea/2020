@@ -4,6 +4,11 @@
 
 ## Challenges
 
+## Rules
+
+1. All projects must be released under a [suitable open source license](https://choosealicense.com/)
+2. You can start as soon as the challenges are published
+
 ## Beneficiaries
 
 Hack for the Sea 2019 will be hosted at [Wheelhouse Cowork](https://wheelhousecowork.com) in Gloucester.
