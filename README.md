@@ -1,6 +1,10 @@
 # Hack for the Sea 2020
 
-## Where
+## Where?
+
+## Challenges
+
+## Beneficiaries
 
 Hack for the Sea 2019 will be hosted at [Wheelhouse Cowork](https://wheelhousecowork.com) in Gloucester.
 
