@@ -10,7 +10,7 @@ Challenge submissions are open! Please read and comment on the [Challenge Guide]
 
 ## Rules
 
-1. All projects must be released under a [suitable open source license](https://choosealicense.com/)
+1. All projects must be released under a [suitable open source license](https://choosealicense.com/) or under the Creative Commons "Attribution-ShareAlike" license.
 2. You can start as soon as the challenges are published
 3. This is **not** a recruiting event, nor is it an intellectual property grab.
 
