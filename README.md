@@ -1,5 +1,7 @@
 # Hack for the Sea 2020
 
+<img src="https://avatars0.githubusercontent.com/u/21284584?s=200&v=4" />
+
 ## Where + When?
 
 Hack for the Sea is loosely scheduled for late October 2020, at [Wheelhouse Cowork](https://wheelhousecowork.com/en) in Gloucester, MA
