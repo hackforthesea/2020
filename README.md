@@ -25,9 +25,9 @@ Challenge submissions are open! Please read and comment on the [Challenge Guide]
 
 ## Sponsors 
 
-| [GL Design Co]() |
+| [GL Design Co](https://gldesignco.com) |
 |:----:|
-| <img src="https://server.gldesignco.com/media/custom/mylogo.png" /> |
+| <img src="https://static.wixstatic.com/media/3fd9d1_7cd090011d26453fbbae46c8b1e106e3~mv2.png/v1/fill/w_178,h_84,al_c,q_85,usm_0.66_1.00_0.01/3fd9d1_7cd090011d26453fbbae46c8b1e106e3~mv2.webp" /> |
 
 Stay tuned for more information. For notifications as to when things change, please watch or star this repository, or sign up for our mailing list at https://tinyletter.com/hackforthesea.
 
