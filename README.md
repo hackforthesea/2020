@@ -19,9 +19,9 @@ Challenge submissions are open! Please read and comment on the [Challenge Guide]
 
 ## Beneficiaries
 
-| [Ocean Alliance](https://whale.org/) | [Gloucester Marine Genomics Institute](https://gmgi.org) | [Seaside Sustainability](https://www.seasidesustainability.org/) |
-|:-----:|:-----:|:-----:|
-| <img src="https://whale.org/wp-content/themes/oceanAlliance/images/oceanAllianceLogo@2x.png" width=250 /> | <img src="https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/31444918_2175956652431374_4943707047905460224_n.jpg?_nc_cat=107&_nc_ohc=GArCxfqIo1wAX-0ZbVb&_nc_ht=scontent.fbed1-2.fna&oh=65fc24944f4074fdb9fd8ac726a2d0d4&oe=5ECB4874" width=250 /> | <img src="https://static.wixstatic.com/media/5b886d_68403281bb7a4cb2851a4f3dd2c75340~mv2.png/v1/fill/w_264,h_269,al_c,q_85,usm_0.66_1.00_0.01/LOGO3%20copy.webp" width=250 /> |
+| [Ocean Alliance](https://whale.org/) | [Seaside Sustainability](https://www.seasidesustainability.org/) |
+|:-----:|:-----:|
+| <img src="https://whale.org/wp-content/themes/oceanAlliance/images/oceanAllianceLogo@2x.png" width=250 /> | <img src="https://static.wixstatic.com/media/5b886d_68403281bb7a4cb2851a4f3dd2c75340~mv2.png/v1/fill/w_264,h_269,al_c,q_85,usm_0.66_1.00_0.01/LOGO3%20copy.webp" width=250 /> |
 
 ## Sponsors 
 
