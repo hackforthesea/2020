@@ -1,8 +1,3 @@
----
-title: Hack for the Sea 2020
-description: Hack for the Sea 2020 - October 15-17, Gloucester MA and Virtual
----
-
 # Hack for the Sea 2020
 
 <img src="https://avatars0.githubusercontent.com/u/21284584?s=200&v=4" />
